@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "pruvious dev",
     "generate": "nuxt generate",
     "preview": "npx nuxthub preview",
     "deploy": "npx nuxthub deploy",
@@ -15,6 +15,7 @@
     "@nuxt/eslint": "^0.6.1",
     "@nuxthub/core": "^0.8.7",
     "nuxt": "^3.14.0",
+    "pruvious": "^3.13.4",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5"
   },
